@@ -54,7 +54,6 @@ public class practice {
             e.printStackTrace();
         }
 
-        System.out.println();
-        scanner.close();
+        
     }
 }
